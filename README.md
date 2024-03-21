@@ -2,7 +2,7 @@
 <div>
 <h3 align="center"> Hi there I'm ESAKKINATHAN </h3>
   <hr>
-  <p align="center"><img src=""></p>
+  <p align="center"><img src="https://github.com/Esakkinathan/esakkinathan/blob/main/code.gif" width=400 height=300></p>
   <hr>
 <p> Contact me:
 
