@@ -1,4 +1,4 @@
-<div style="display:flex; justify-content:center; align-content:center;">
+<div style="display:flex; width:100%;justify-content:center; align-content:center;">
 <center>
   <img src="https://github.com/Esakkinathan/esakkinathan/blob/main/image.jpeg" width=250 height=300>
   <h3>ESAKKINATHAN B</h3>
