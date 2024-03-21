@@ -1,15 +1,17 @@
-<script src="https://kit.fontawesome.com/30fecdcfd1.js" crossorigin="anonymous"></script>
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk" crossorigin="anonymous">
-<div>
 
-<img src="https://github.com/Esakkinathan/esakkinathan/blob/main/image.jpeg" width=250 height=300>
-<h3>ESAKKINATHAN B</h3>
+<div>
+<h3 align="center"> Hi there I'm ESAKKINATHAN </h3>
+  <hr>
+<p> Contact me:
+
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EsakkiNathan6)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esakki-nathan-aa39831b4/)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/esakki_nathan_26/)
+</p>
+<hr>
+<p>🎗️ Check out my <a href="https://github.com/Esakkinathan/esakkinathan/blob/main/Esakkinathan-B-resume.pdf">Resume</a></p>
+<hr>
 My stats:
 <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=esakkinathan&layout=compact&langs_count=16&theme=dracula"/>
-<a href="https://esakkinathan.pythonanywhere.com/" target="_blank"><i class="fa-brands fa-google" style="color: #fafafa;"></i></a>
-<a href="https://www.facebook.com/esakkinathan.bes" target="_blank"><i class="fa-brands fa-facebook" style="color: #3b5998;"></i></a>
-<a href="https://www.instagram.com/esakki_nathan_26/" target="_blank"><i class="fa-brands fa-instagram" style="color:  #ac2bac;"></i></a>
-<a href="https://twitter.com/EsakkiNathan6" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
-<a href="https://github.com/Esakkinathan/" target="_blank"><i class="fa-brands fa-github" style="color: #dd4b39;"></i></a>
-<a href="https://www.linkedin.com/in/esakki-nathan-aa39831b4/" target="_blank"><i class="fa-brands fa-linkedin-in" style="color: #007bb5"></i></a>
+
 </div>
