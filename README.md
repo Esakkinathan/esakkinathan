@@ -20,17 +20,23 @@
   Languages known
 </p>
 <p>
+<img src="https://img.shields.io/badge/python-f7d54f.svg?&style=for-the-badge&logo=python&logoColor=blue"/>
+<img src="https://img.shields.io/badge/C-3949a9.svg?&style=for-the-badge&logo=C&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/java-FFFFFF.svg?&style=for-the-badge&logo=openjdk&logoColor=black"/>
+
+</p>
+<p>
+  <img src="https://img.shields.io/badge/mongodb-ffffff.svg?&style=for-the-badge&logo=python&logoColor=419432"/>
+   <img src="https://img.shields.io/badge/mysql-f79d12.svg?&style=for-the-badge&logo=python&logoColor=005e84"/>
+  <img src="https://img.shields.io/badge/django-ffffff.svg?&style=for-the-badge&logo=django&logoColor=092d1f"/>
+</p>
+<p>
   <img src="https://img.shields.io/badge/html5%20-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3%20-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript%20-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=grey"/>
 
 </p>
 
-<img src="https://img.shields.io/badge/python-FFFF00.svg?&style=for-the-badge&logo=python&logoColor=blue"/>
-<img src="https://img.shields.io/badge/C-3949a9.svg?&style=for-the-badge&logo=C&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/java-FFFFFF.svg?&style=for-the-badge&logo=openjdk&logoColor=black"/>
-
-</p>
 <hr>
 <p>Tools Known</p>
 <p>
