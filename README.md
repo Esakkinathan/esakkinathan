@@ -1,3 +1,5 @@
+<script src="https://kit.fontawesome.com/30fecdcfd1.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk" crossorigin="anonymous">
 <div>
 
 <img src="https://github.com/Esakkinathan/esakkinathan/blob/main/image.jpeg" width=250 height=300>
