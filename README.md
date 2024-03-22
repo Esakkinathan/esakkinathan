@@ -6,14 +6,18 @@
   <hr>
 <p> Contact me:
 
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EsakkiNathan6)
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esakki-nathan-aa39831b4/)
+[![Mail](https://img.shields.io/badge/gmail-%ffffff.svg?&style=for-the-badge&logo=gmail&logoColor=white)](esakkibes91@gmail.com)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EsakkiNathan6)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/esakki_nathan_26/)
+
 </p>
 <hr>
 <ul>
 <li>🥲 Check out my <a href="https://esakkinathan.pythonanywhere.com/">Website</a></li>
 <li>🎗️ Check out my <a href="https://github.com/Esakkinathan/esakkinathan/blob/main/Esakkinathan-B-resume.pdf">Resume</a></li>
+<li> 🎈 Check out my <a href="https://www.hackerrank.com/profile/esakkibes91">HackerRank</a> Profile</li>
 </ul>
 <hr>
 <p>
@@ -44,6 +48,7 @@
   <img src="https://img.shields.io/badge/android%20studio-4cd98b.svg?&style=for-the-badge&logo=android%20studio&logoColor=white"/> 
   <img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
   <img src="https://img.shields.io/badge/github%20-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/firebase%20-ffffff.svg?&style=for-the-badge&logo=firebase&logoColor=ffcb2c"/>
 </p>
 <hr>
 
