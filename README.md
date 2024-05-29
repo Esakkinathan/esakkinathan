@@ -1,6 +1,6 @@
 
 <div>
-<h3 align="center"> Hi there I'm Ranjit </h3>
+<h3 align="center"> Hi there  </h3>
   
 <!--   <p align="center"><img src="https://github.com/Esakkinathan/esakkinathan/blob/main/code.gif" width=400 height=300></p> -->
   <hr>
