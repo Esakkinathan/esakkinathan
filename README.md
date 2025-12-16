@@ -25,8 +25,9 @@
 </p>
 <p>
 <img src="https://img.shields.io/badge/python-f7d54f.svg?&style=for-the-badge&logo=python&logoColor=blue"/>
-<img src="https://img.shields.io/badge/C-3949a9.svg?&style=for-the-badge&logo=C&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/java-FFFFFF.svg?&style=for-the-badge&logo=openjdk&logoColor=black"/>
+<img src="https://img.shields.io/badge/swift-FFFFFF.svg?&style=for-the-badge&logo=openjdk&logoColor=black"/>
+<img src="https://img.shields.io/badge/C-3949a9.svg?&style=for-the-badge&logo=C&logoColor=FFFFFF"/>
 
 </p>
 <p>
